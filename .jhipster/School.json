@@ -1,0 +1,126 @@
+{
+  "applications": "*",
+  "changelogDate": "20230830063520",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "school",
+  "fields": [
+    {
+      "fieldName": "schoolId",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolCode",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolTransactionIdentifier",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolBankIdentifier",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolAddress1",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolAddress2",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolAddress3",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolAddress4",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolAddress5",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolAddress6",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolAddress7",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolContact1",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolContact2",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolContact3",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolContact4",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolContact5",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolContact6",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolContact7",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolAccountId",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolImage",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "image"
+    },
+    {
+      "fieldName": "schoolIcon",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "image"
+    },
+    {
+      "fieldName": "isActive",
+      "fieldType": "Boolean"
+    },
+    {
+      "fieldName": "delflg",
+      "fieldType": "Boolean"
+    },
+    {
+      "fieldName": "schoolPrimaryColor",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolSecondaryColor",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "isAllowedToTransact",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "School",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

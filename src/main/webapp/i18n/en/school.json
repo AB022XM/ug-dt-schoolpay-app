@@ -1,0 +1,50 @@
+{
+  "schoolpayApp": {
+    "school": {
+      "home": {
+        "title": "Schools",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new School",
+        "createOrEditLabel": "Create or edit a School",
+        "notFound": "No Schools found"
+      },
+      "created": "A new School is created with identifier {{ param }}",
+      "updated": "A School is updated with identifier {{ param }}",
+      "deleted": "A School is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete School {{ id }}?"
+      },
+      "detail": {
+        "title": "School"
+      },
+      "id": "ID",
+      "schoolId": "School Id",
+      "schoolCode": "School Code",
+      "schoolName": "School Name",
+      "schoolTransactionIdentifier": "School Transaction Identifier",
+      "schoolBankIdentifier": "School Bank Identifier",
+      "schoolAddress1": "School Address 1",
+      "schoolAddress2": "School Address 2",
+      "schoolAddress3": "School Address 3",
+      "schoolAddress4": "School Address 4",
+      "schoolAddress5": "School Address 5",
+      "schoolAddress6": "School Address 6",
+      "schoolAddress7": "School Address 7",
+      "schoolContact1": "School Contact 1",
+      "schoolContact2": "School Contact 2",
+      "schoolContact3": "School Contact 3",
+      "schoolContact4": "School Contact 4",
+      "schoolContact5": "School Contact 5",
+      "schoolContact6": "School Contact 6",
+      "schoolContact7": "School Contact 7",
+      "schoolAccountId": "School Account Id",
+      "schoolImage": "School Image",
+      "schoolIcon": "School Icon",
+      "isActive": "Is Active",
+      "delflg": "Delflg",
+      "schoolPrimaryColor": "School Primary Color",
+      "schoolSecondaryColor": "School Secondary Color",
+      "isAllowedToTransact": "Is Allowed To Transact"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schoolpayApp": {
+    "schoolAccountNumber": {
+      "home": {
+        "title": "School Account Numbers",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new School Account Number",
+        "createOrEditLabel": "Create or edit a School Account Number",
+        "notFound": "No School Account Numbers found"
+      },
+      "created": "A new School Account Number is created with identifier {{ param }}",
+      "updated": "A School Account Number is updated with identifier {{ param }}",
+      "deleted": "A School Account Number is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete School Account Number {{ id }}?"
+      },
+      "detail": {
+        "title": "School Account Number"
+      },
+      "id": "ID",
+      "accountId": "Account Id",
+      "accountName": "Account Name",
+      "accountNumber": "Account Number",
+      "schoolId": "School Id",
+      "isActive": "Is Active",
+      "delflg": "Delflg"
+    }
+  }
+}

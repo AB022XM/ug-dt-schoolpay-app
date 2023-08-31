@@ -1,0 +1,40 @@
+{
+  "applications": "*",
+  "changelogDate": "20230830063521",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "school_account_number",
+  "fields": [
+    {
+      "fieldName": "accountId",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "accountName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "accountNumber",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "schoolId",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "isActive",
+      "fieldType": "Boolean"
+    },
+    {
+      "fieldName": "delflg",
+      "fieldType": "Boolean"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "SchoolAccountNumber",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}
